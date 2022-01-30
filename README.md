@@ -3,6 +3,8 @@ Show the file path on explorer and select it with Python
 
 I made this despite how short it is because i used this code a lot of times.
 
+This module uses ```subprocess```.
+
 ## Setup
 ```pip3 install git+https://github.com/yjg30737/python-open-filepath-and-select.git --upgrade```
 
