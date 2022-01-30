@@ -6,8 +6,8 @@ I made this despite how short it is because i used this code a lot of times.
 ## Setup
 ```pip3 install git+https://github.com/yjg30737/python-open-filepath-and-select.git --upgrade```
 
-
 ## Example
+Code Sample
 ```python
 from python_open_filepath_and_select.openFilePathAndSelect import open_file_path_and_select
 
